@@ -1,7 +1,7 @@
 # One Libraray to Rule Them All
 ## IsEven.js
 
-I have started this project as a hobby but quickly turned it into a public repo just for the good of humanity
+I started this project as a hobby but quickly turned it into a public repo just for the good of humanity
 
 ### My Goal:
 Hard code every single number in existance into a single function.
